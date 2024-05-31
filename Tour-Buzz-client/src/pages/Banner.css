@@ -1,0 +1,20 @@
+.slider{
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.slide1{
+    background-image: url("../../public/slide1.jpg");
+}
+.slide2{
+    background-image: url("../../public/slide2.jpg");
+}
+.slide3{
+    background-image: url("../../public/slide3.jpg");
+}
